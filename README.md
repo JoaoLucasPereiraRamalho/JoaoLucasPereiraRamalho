@@ -56,7 +56,7 @@ Aqui estão as tecnologias que eu mais utilizo e com as quais tenho experiência
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -87,9 +87,9 @@ Aqui estão as tecnologias que eu mais utilizo e com as quais tenho experiência
 
 ### 💼 Destaques da Experiência
 
-- 💻 **Desenvolvedor Full Stack na HotSales**: Experiência no ciclo de vida completo de aplicações, lidando com **integração de APIs REST**, Gateways de Pagamento, **Docker** para padronização e **Sentry** para monitoramento em produção.
-- 🎓 **Projetista na Comp Júnior**: Aplicação de **metodologias ágeis (Scrum)** e foco em usabilidade e eficiência em contato direto com clientes.
-- 💡 **Formação**: Bacharelado em Ciência da Computação (UFLA, 7º Período).
+-  **Desenvolvedor Full Stack na HotSales**: Experiência no ciclo de vida completo de aplicações, lidando com **integração de APIs REST**, Gateways de Pagamento, **Docker** para padronização e **Sentry** para monitoramento em produção.
+-  **Projetista na Comp Júnior**: Aplicação de **metodologias ágeis (Scrum)** e foco em usabilidade e eficiência em contato direto com clientes.
+-  **Formação**: Bacharelado em Ciência da Computação (UFLA, 7º Período).
 
 ---
 
@@ -104,7 +104,7 @@ Aqui estão as tecnologias que eu mais utilizo e com as quais tenho experiência
 ### 📫 Conecte-se Comigo
 
 
-| **LinkedIn** | [https://www.linkedin.com/in/joao-lucas-pereira-ramalho-0145722a8/](https://www.linkedin.com/in/joao-lucas-pereira-ramalho-0145722a8/) |
-| **Email** | jucasramalho@gmail.com |
+*  **LinkedIn:** [João Lucas Pereira Ramalho](https://www.linkedin.com/in/joao-lucas-pereira-ramalho-0145722a8/)
+*  **Email:** jucasramalho@gmail.com
 
 </div>
