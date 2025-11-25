@@ -4,6 +4,10 @@
 
 Sou **Desenvolvedor Full Stack** com experiência profissional prática em ambientes de produção e cursando Ciência da Computação na UFLA. Meu foco é construir soluções robustas e eficientes utilizando o ecossistema **Laravel**, **React** e **Node.js**.
 
+Ao longo da minha trajetória, atuei em projetos que envolvem desde o desenvolvimento de sistemas web e e-commerces até integrações com APIs e ERPs, sempre com foco em usabilidade, eficiência e boas práticas de código.
+
+Sou uma pessoa **proativa, criativa e comunicativa**, com facilidade para aprender novas tecnologias e colaborar em equipe. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para o crescimento dos produtos e times com os quais atuo, entregando **soluções que realmente gerem valor.**
+
 ---
 
 ### 🚀 Minha Trajetória & Paixão
@@ -97,21 +101,9 @@ Aqui estão as tecnologias que eu mais utilizo e com as quais tenho experiência
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLucasPereiraRamalho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoLucasPereiraRamalho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
----
-
 ### 📫 Conecte-se Comigo
 
-| | |
-| :--- | :--- |
+
 | **LinkedIn** | [https://www.linkedin.com/in/joao-lucas-pereira-ramalho-0145722a8/](https://www.linkedin.com/in/joao-lucas-pereira-ramalho-0145722a8/) |
 | **Email** | jucasramalho@gmail.com |
 
