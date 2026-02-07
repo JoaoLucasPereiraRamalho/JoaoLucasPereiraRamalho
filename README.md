@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Lucas 👋
+# Olá! Eu sou o João Lucas 
 
 <div align="left">
 
